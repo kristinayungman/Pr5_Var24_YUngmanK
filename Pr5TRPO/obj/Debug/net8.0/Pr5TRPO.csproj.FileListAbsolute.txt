@@ -1,0 +1,14 @@
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\bin\Debug\net8.0\Pr5TRPO.exe
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\bin\Debug\net8.0\Pr5TRPO.deps.json
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\bin\Debug\net8.0\Pr5TRPO.runtimeconfig.json
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\bin\Debug\net8.0\Pr5TRPO.dll
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\bin\Debug\net8.0\Pr5TRPO.pdb
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\obj\Debug\net8.0\Pr5TRPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\obj\Debug\net8.0\Pr5TRPO.AssemblyInfoInputs.cache
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\obj\Debug\net8.0\Pr5TRPO.AssemblyInfo.cs
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\obj\Debug\net8.0\Pr5TRPO.csproj.CoreCompileInputs.cache
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\obj\Debug\net8.0\Pr5TRPO.dll
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\obj\Debug\net8.0\refint\Pr5TRPO.dll
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\obj\Debug\net8.0\Pr5TRPO.pdb
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\obj\Debug\net8.0\Pr5TRPO.genruntimeconfig.cache
+C:\пр31Гариев\ТРПО4КУРС\Pr5TRPO\Pr5TRPO\obj\Debug\net8.0\ref\Pr5TRPO.dll
